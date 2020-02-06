@@ -1,0 +1,13 @@
+main {
+    padding: 20px;
+}
+  
+nav > * {
+    padding: 10px;
+}
+  
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+}
